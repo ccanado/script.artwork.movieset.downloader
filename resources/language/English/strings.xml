@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+  <string id="30100">General</string>
+  <string id="30101">Reset fanart and poster to first movie arts</string>
+  <string id="30102">Confirm the update of each movieset</string>
+  <string id="30103">Debug Enabled</string>
+  <string id="31101">Yes</string>
+  <string id="31102">No</string>
+  <string id="31201">Searching for movieset artworks</string>
+  <string id="31202">Downloading</string>
+  <string id="31203">Reseting</string>
+  <string id="31204">Do you want to update to collection arts?</string>
+  <string id="31205">%i moviesets</string>
+  <string id="31206">[%i backdrops]/[%i posters]</string>
+</strings>

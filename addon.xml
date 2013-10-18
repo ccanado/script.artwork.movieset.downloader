@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+    id="script.artwork.movieset.downloader"
+    name="MovieSet Artwork Downloader"
+    version="0.1.2"
+    provider-name="ccanado"
+    >
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="xbmc.json" version="6.0.0"/>
+    <import addon="xbmc.addon" version="12.0.0"/>
+    <import addon="script.module.simplejson" optional="true" version="2.0.10"/>
+  </requires>
+  <extension  point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Downloads artwork for movie sets in your library</summary>
+    <summary lang="es">Descargue artes para colecciones a su biblioteca</summary>
+    <description lang="en">Automatically set poster and fanart artworks from www.thetvdb.com for all movie sets in your library.</description>
+    <description lang="es">Establezca automáticamente artes de poster y fanart desde www.thetvdb.com para todas las sagas de su biblioteca.</description>
+    <disclaimer lang="en">For bugs, requests or general questions visit the MovieSet Artwork Downloader thread on the XBMC forum.</disclaimer>
+    <disclaimer lang="es">Para informar de errores, hacer peticiones o preguntas visite el hilo MovieSet Artwork Downloader en el foro de XBMC.</disclaimer>
+    <language/>
+    <platform>all</platform>
+  </extension>
+</addon>

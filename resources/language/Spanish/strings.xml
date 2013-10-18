@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+  <string id="30100">General</string>
+  <string id="30101">Resetear fanart y poster a los de la primera película</string>
+  <string id="30102">Confirmar la actualización de cada saga</string>
+  <string id="30103">Debug habilitado</string>
+  <string id="31101">Si</string>
+  <string id="31102">No</string>
+  <string id="31201">Buscando artes para las sagas</string>
+  <string id="31202">Descargando</string>
+  <string id="31203">Restableciendo</string>
+  <string id="31204">¿Desea actualizar a los artes de la colección?</string>
+  <string id="31205">%i moviesets</string>
+  <string id="31206">[%i backdrops]/[%i posters]</string>
+</strings>

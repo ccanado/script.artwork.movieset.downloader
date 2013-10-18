@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <category label="30100" id="section_general">
+        <setting label="30101" type="bool" id="reset_enabled" default="false"/>
+        <setting label="30102" type="bool" id="confirmation_enabled" subsetting="false" default="false" enable="eq(-1,false)" visible="eq(-1,false)"/>
+        <setting label="30103" type="bool" id="debug_enabled" default="false"/>
+    </category>
+</settings>

@@ -1,0 +1,9 @@
+[B]0.1.2[/B]
+- Chaged search method to search/collection in TMDB API
+
+[B]0.1.1[/B]
+- Changed search method to find movie without year
+
+[B]0.1.0[/B]
+- Initial commit
+- Initial version for official XBMC Frodo
